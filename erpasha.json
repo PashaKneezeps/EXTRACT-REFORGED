@@ -7,10 +7,10 @@
   "DiscordAnticheatWebhook": "https://discord.com/api/webhooks/1369754450398417126/bCtSj-uGs06VhHf8r1C4TPNxb9m7iYZg6Wl59_UR9P0FJTjZkGceBHGd1_8yksB0MAry",
   "Roles": [
     {
-      "Name": "EXTRACT //REFORGED - TEAM",
+      "Name": "YOUR ADMIN TAG",
       "Color": [0, 15, 255],
       "Players": [
-        "e113ebfc-b273-4f19-a341-0731cbc0dfb6"
+        "YOUR ARMA ID"
       ],
       "Permissions": [
         "CanKick",
