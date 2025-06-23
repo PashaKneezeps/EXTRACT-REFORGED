@@ -1,0 +1,130 @@
+{
+  "ServerKey": "ArmaReforgedDeluxeKey",
+  "DiscordChatWebhook": "https://discord.com/api/webhooks/1378115420304965763/xMxnTMExbq31OadZQPYxNY7k4Pritr6FhPp87-K1Z7cnPCnacLcPwH1rvI4Y5QqM7IFl",
+  "DiscordAdminLogWebhook": "https://discord.com/api/webhooks/1378115293389262848/0_ssZhfXZKL8wR2Ia76Us4IXMXw5UxCPQo_O8V6dK1Rbxk65xnBSOKL1Lzvj7afc8t8i",
+  "DiscordKillfeedWebhook": "https://discord.com/api/webhooks/1378114894775324752/ruBzrrnqiBstEpJhDr4a4NvVthecvZnWi-OqcoeH_GBLN9NZZ6OfkH_4zYBIeT5xhjgc",
+  "DiscordShopsWebhook": "https://discord.com/api/webhooks/1369754346752966666/x4COUYcRMdq7zgYFlNST8U7qmhpskyIj20EjZntxbeb-2-Z0BlUro4pqYo74DcenqHm0",
+  "DiscordAnticheatWebhook": "https://discord.com/api/webhooks/1369754450398417126/bCtSj-uGs06VhHf8r1C4TPNxb9m7iYZg6Wl59_UR9P0FJTjZkGceBHGd1_8yksB0MAry",
+  "Roles": [
+    {
+      "Name": "EXTRACT //REFORGED - TEAM",
+      "Color": [0, 15, 255],
+      "Players": [
+        "e113ebfc-b273-4f19-a341-0731cbc0dfb6"
+      ],
+      "Permissions": [
+        "CanKick",
+        "CanBan",
+        "CanUseAdminMenu",
+        "spawn_entities"
+      ]
+    }
+  ],
+  "ShopSync": [
+    {
+      "Name": "MainShop",
+      "Config": "{9A1F5FBDDF3A4B9E}",
+      "Color": [0, 100, 32]
+    },
+    {
+      "Name": "BlackMarket",
+      "Config": "{4C5DDFAB22B4F991}",
+      "Color": [0, 100, 32]
+    },
+    {
+      "Name": "AdminGeneralShop",
+      "Config": "{0FF4447315B6048F}",
+      "Color": [255, 0, 0]
+    },
+    {
+      "Name": "BMClothing",
+      "Config": "{505EBBE17F148F63}",
+      "Color": [128, 0, 128]
+    },
+    {
+      "Name": "BlackMarket(Level 1 Shop)",
+      "Config": "{1B0B0C6E1B26C99F}",
+      "Color": [0, 128, 255]
+    },
+    {
+      "Name": "BlackMarket(Level 2 Shop)",
+      "Config": "{45E3252DA4AB4790}",
+      "Color": [0, 255, 128]
+    },
+    {
+      "Name": "BM Military Misc Shop",
+      "Config": "{C88B7711423400E4}",
+      "Color": [64, 64, 64]
+    },
+    {
+      "Name": "BM Weapons Shop",
+      "Config": "{59BE5FE7404401E8}",
+      "Color": [128, 0, 0]
+    },
+    {
+      "Name": "Drug Dealer Shop",
+      "Config": "{4A71B6F31380B19C}",
+      "Color": [255, 255, 0]
+    },
+    {
+      "Name": "RotatingScopes Shop ",
+      "Config": "{F155F7633DF96C71}",
+      "Color": [0, 128, 128]
+    },
+    {
+      "Name": "Piets Bodega Shop",
+      "Config": "{B7C0737269290AEF}",
+      "Color": [139, 69, 19]
+    },
+    {
+      "Name": "Piets General Shop",
+      "Config": "{178A0C0A00583111}",
+      "Color": [0, 100, 32]
+    },
+    {
+      "Name": "Piets Military Clothing",
+      "Config": "{F7C00A49C9FA9363}",
+      "Color": [75, 83, 32]
+    },
+    {
+      "Name": "Piets Military Misc. Shop",
+      "Config": "{91DDA34F741216EC}",
+      "Color": [64, 64, 64]
+    },
+    {
+      "Name": "Piets Weapons Shop",
+      "Config": "{6E890B86A7194D93}",
+      "Color": [128, 0, 0]
+    },
+    {
+      "Name": "SafeZone GasStation Shop",
+      "Config": "{A42CFC35423501C6}",
+      "Color": [255, 69, 0]
+    },
+    {
+      "Name": "SafeZone General Shop",
+      "Config": "{CD7EBFA8F61E9B70}",
+      "Color": [0, 100, 32]
+    },
+    {
+      "Name": "SafeZone Military Clothing",
+      "Config": "{B42AD00D16B96D41}",
+      "Color": [75, 83, 32]
+    },
+    {
+      "Name": "SafeZone Military Misc. Shop",
+      "Config": "{6613C7B927BE4E76}",
+      "Color": [64, 64, 64]
+    },
+    {
+      "Name": "SafeZone Residential Clothing",
+      "Config": "{532C94AA5ED7AAAB}",
+      "Color": [0, 191, 255]
+    },
+    {
+      "Name": "SafeZone Weapons Shop",
+      "Config": "{B47DB824515FE7F2}",
+      "Color": [128, 0, 0]
+    }
+  ]
+}
