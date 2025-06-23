@@ -1,3 +1,4 @@
+![image (12)](https://github.com/user-attachments/assets/0b4796f0-bece-4ebc-9ae6-c9e7da3e3386)
 These files are needed to run the addon Extract Reforged all files must be moved to the server profile
 
 
