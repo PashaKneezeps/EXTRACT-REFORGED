@@ -1,0 +1,344 @@
+{
+    "bindAddress": "0.0.0.0",
+    "bindPort": 2004,
+    "publicAddress": "YOUR_IP",
+    "publicPort": 2004,
+    "a2s": {
+        "address": "0.0.0.0",
+        "port": 17780
+    },
+    "rcon": {
+        "address": "0.0.0.0",
+        "port": 20002,
+        "password": "RCONPASSWORT",
+        "maxClients": 16,
+        "permission": "admin"
+    },
+    "game": {
+        "name": "#1 Extract Reforged | WIP | 1PP |  PvPvE | Loot - Bunker - Lockers - Shops by KSK EUROPA",
+        "password": "",
+        "passwordAdmin": "ADMINPASSWORT",
+        "admins": [ "ARMA_ID", "ARMA_ID" ],
+        "scenarioId": "{C8C852C743736EAF}Missions/EXTRACT_SERVER.conf",
+        "maxPlayers": 128,
+        "visible": true,
+        "crossPlatform": true,
+        "supportedPlatforms": [ "PLATFORM_PC", "PLATFORM_XBL", "PLATFORM_PSN" ],
+        "gameProperties": {
+            "serverMaxViewDistance": 1200,
+            "serverMinGrassDistance": 50,
+            "fastValidation": true,
+            "networkViewDistance": 1000,
+            "battlEye": true,
+            "disableThirdPerson": false,
+            "VONDisableUI": true,
+            "VONDisableDirectSpeechUI": true,
+            "VONCanTransmitCrossFaction": false,
+            "missionHeader": {  }
+        },
+        "modsRequiredByDefault": true,
+        "mods": [   {
+    "modId": "60B8E15B61C3F97A",
+    "name": "vPad_Test",
+    "version": ""
+  },
+  {
+    "modId": "5F268647F8A1A1F4",
+    "name": "CRX Enfusion A.I.",
+    "version": ""
+  },
+  {
+    "modId": "5EE2A316699473D1",
+    "name": "Third Person Vehicle Only",
+    "version": ""
+  },
+  {
+    "modId": "64ED6553B8AF6B62",
+    "name": "Atmospheric Weather Mod",
+    "version": ""
+  },
+  {
+    "modId": "5964E0B3BB7410CE",
+    "name": "Game Master Enhanced",
+    "version": ""
+  },
+  {
+    "modId": "5F0D245931200FD1",
+    "name": "Railway Generator",
+    "version": ""
+  },
+  {
+    "modId": "654CD10943E54F45",
+    "name": "ExtractReforged",
+    "version": ""
+  },
+  {
+    "modId": "62CCD69DD17E4F2F",
+    "name": "AKI CORE",
+    "version": ""
+  },
+  {
+    "modId": "5AC2954C784671B3",
+    "name": "Barrett M82",
+    "version": ""
+  },
+  {
+    "modId": "5CA8F34E77DD532C",
+    "name": "KOMRAD-12 Shotgun",
+    "version": ""
+  },
+  {
+    "modId": "595F2BF2F44836FB",
+    "name": "RHS - Status Quo",
+    "version": ""
+  },
+  {
+    "modId": "5D6EBC81EB1842EF",
+    "name": "Enfusion Persistence Framework",
+    "version": ""
+  },
+  {
+    "modId": "5D6EA74A94173EDF",
+    "name": "Enfusion Database Framework",
+    "version": ""
+  },
+  {
+    "modId": "5F207DD6271E2799",
+    "name": "Collectable Intel & Phones",
+    "version": ""
+  },
+  {
+    "modId": "5D0551624969C92E",
+    "name": "Zeliks Character",
+    "version": ""
+  },
+  {
+    "modId": "6086E7EBC78E9039",
+    "name": "MCX SPEAR 6.8",
+    "version": ""
+  },
+  {
+    "modId": "610C8532D3756F2D",
+    "name": "Motorboat",
+    "version": ""
+  },
+  {
+    "modId": "629B2BA37EFFD577",
+    "name": "WCS_Armaments",
+    "version": ""
+  },
+  {
+    "modId": "654CD14642475624",
+    "name": "ExtractReforgedMapAssets",
+    "version": ""
+  },
+  {
+    "modId": "61A6B4C21F6FCF22",
+    "name": "Modest AI Radio",
+    "version": ""
+  },
+  {
+    "modId": "59EAA899751805DF",
+    "name": "Stun Grenade",
+    "version": ""
+  },
+  {
+    "modId": "5AD6FDAC65418DEA",
+    "name": "CZ Scorpion EVO3 SMG",
+    "version": ""
+  },
+  {
+    "modId": "654CD0CE5272AF95",
+    "name": "ExtractReforgedServerFiles",
+    "version": ""
+  },
+  {
+    "modId": "6273146ADFE8241D",
+    "name": "WCS_AH6M",
+    "version": ""
+  },
+  {
+    "modId": "628EDA2ABC937159",
+    "name": "Structures For GM byHeine",
+    "version": ""
+  },
+  {
+    "modId": "62F364B35E9B51B0",
+    "name": "Wirecutters 2",
+    "version": ""
+  },
+  {
+    "modId": "5D8334C6E270834E",
+    "name": "Arma 2 M14 DMR",
+    "version": ""
+  },
+  {
+    "modId": "5D2D1436D1FA5A13",
+    "name": "Shop System",
+    "version": ""
+  },
+  {
+    "modId": "5994614FB5AD35C2",
+    "name": "RHIB",
+    "version": ""
+  },
+  {
+    "modId": "5C8540DA49BA6AFC",
+    "name": "Zeliks Loot Spawners",
+    "version": ""
+  },
+  {
+    "modId": "62DE631E2272E2EB",
+    "name": "weed",
+    "version": ""
+  },
+  {
+    "modId": "5D457933C3941DBB",
+    "name": "MP5_MP5SD",
+    "version": ""
+  },
+  {
+    "modId": "5E389BB9F58B79A6",
+    "name": "SpaceCore",
+    "version": ""
+  },
+  {
+    "modId": "5EF81BADF6B113CD",
+    "name": "Submarine",
+    "version": ""
+  },
+  {
+    "modId": "61DD377AE51CB4BD",
+    "name": "Misfits Squad Ghillie Suits",
+    "version": ""
+  },
+  {
+    "modId": "60AAC732172258BF",
+    "name": "HK_G36",
+    "version": ""
+  },
+  {
+    "modId": "5CA125536EE7430A",
+    "name": "M110 DMR",
+    "version": ""
+  },
+  {
+    "modId": "5AB301290317994A",
+    "name": "Bacon Suppressors",
+    "version": ""
+  },
+  {
+    "modId": "5ABD0CB57F7E9EB1",
+    "name": "RIS Laser Attachments",
+    "version": ""
+  },
+  {
+    "modId": "628F720BC527C143",
+    "name": "Rayzis Optics",
+    "version": ""
+  },
+  {
+    "modId": "5DC80CC55F805CAE",
+    "name": "Suspicious Item Props",
+    "version": ""
+  },
+  {
+    "modId": "5AAAC70D754245DD",
+    "name": "Server Admin Tools",
+    "version": ""
+  },
+  {
+    "modId": "61E42AE6714A3CC2",
+    "name": "WCS_Armbands",
+    "version": ""
+  },
+  {
+    "modId": "60FB19EB2B5D119C",
+    "name": "Civilian Clothing Mod",
+    "version": ""
+  },
+  {
+    "modId": "60F4F2DD0E3F7772",
+    "name": "EveronxArland",
+    "version": ""
+  },
+  {
+    "modId": "61ECB5EFAA346151",
+    "name": "TacticalAnimationOverhaul TEST",
+    "version": ""
+  },
+  {
+    "modId": "5C9758250C8C56F1",
+    "name": "Bon Action Animations",
+    "version": ""
+  },
+  {
+    "modId": "5F2944B7474F043F",
+    "name": "Disable Game Master Budgets",
+    "version": ""
+  },
+  {
+    "modId": "611CB1D409001EB0",
+    "name": "ACE Magazine Repack",
+    "version": ""
+  },
+  {
+    "modId": "65471BA64F305315",
+    "name": "KSK_Nightvision",
+    "version": ""
+  },
+  {
+    "modId": "612F512CD4CB21D5",
+    "name": "WCS_Earplugs",
+    "version": ""
+  },
+  {
+    "modId": "59674C21AA886D57",
+    "name": "BetterMuzzleFlashes 2.0",
+    "version": ""
+  },
+  {
+    "modId": "59673B6FBB95459F",
+    "name": "BetterTracers 2.0",
+    "version": ""
+  },
+  {
+    "modId": "59651354B2904BA6",
+    "name": "BetterHitsEffects 3.0 Alpha",
+    "version": ""
+  },
+  {
+    "modId": "62D141C722831364",
+    "name": "Blood and Gore MHGaming",
+    "version": ""
+  },    
+  {
+    "modId": "5F0CA2820542039B",
+    "name": "SESOF Compass",
+    "version": ""
+  },
+  {
+    "modId": "60D23A92813D0C8E",
+     "name": "Country Flag Patches",
+     "version": ""
+  },
+  {
+    "modId": "658EE8095B398BB1",
+     "name": "PashaExtractGM",
+     "version": ""
+  } ]
+    },
+    "operating": {
+        "lobbyPlayerSynchronise": true,
+        "disableCrashReporter": false,
+        
+        "disableServerShutdown": false,
+        "disableAI": false,
+        "playerSaveTime": 120,
+        "aiLimit": -1,
+        "slotReservationTimeout": 60,
+        "joinQueue": {
+            "maxSize": 50
+        }
+    }
+}
