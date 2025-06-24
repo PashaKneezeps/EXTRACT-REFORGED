@@ -1,10 +1,10 @@
 {
   "ServerKey": "ArmaReforgedDeluxeKey",
-  "DiscordChatWebhook": "https://discord.com/api/webhooks/1378115420304965763/xMxnTMExbq31OadZQPYxNY7k4Pritr6FhPp87-K1Z7cnPCnacLcPwH1rvI4Y5QqM7IFl",
-  "DiscordAdminLogWebhook": "https://discord.com/api/webhooks/1378115293389262848/0_ssZhfXZKL8wR2Ia76Us4IXMXw5UxCPQo_O8V6dK1Rbxk65xnBSOKL1Lzvj7afc8t8i",
-  "DiscordKillfeedWebhook": "https://discord.com/api/webhooks/1378114894775324752/ruBzrrnqiBstEpJhDr4a4NvVthecvZnWi-OqcoeH_GBLN9NZZ6OfkH_4zYBIeT5xhjgc",
-  "DiscordShopsWebhook": "https://discord.com/api/webhooks/1369754346752966666/x4COUYcRMdq7zgYFlNST8U7qmhpskyIj20EjZntxbeb-2-Z0BlUro4pqYo74DcenqHm0",
-  "DiscordAnticheatWebhook": "https://discord.com/api/webhooks/1369754450398417126/bCtSj-uGs06VhHf8r1C4TPNxb9m7iYZg6Wl59_UR9P0FJTjZkGceBHGd1_8yksB0MAry",
+  "DiscordChatWebhook": "DISCORD_WEBHOOK_URL",
+  "DiscordAdminLogWebhook": "DISCORD_WEBHOOK_URL",
+  "DiscordKillfeedWebhook": "DISCORD_WEBHOOK_URL",
+  "DiscordShopsWebhook": "DISCORD_WEBHOOK_URL",
+  "DiscordAnticheatWebhook": "DISCORD_WEBHOOK_URL",
   "Roles": [
     {
       "Name": "YOUR ADMIN TAG",
