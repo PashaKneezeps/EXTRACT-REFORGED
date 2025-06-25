@@ -2,6 +2,9 @@
 These files are needed to run the addon Extract Reforged all files must be moved to the server profile
 
 
+
+As promised, the server files to get the mod running are now available. This means anyone can set up their own Extract server with the mod... The prerequisite is that the logos cannot be changed, and the mod cannot be re-uploaded...
+
 Scenario Config
 
 {C8C852C743736EAF}Missions/EXTRACT_SERVER.conf
